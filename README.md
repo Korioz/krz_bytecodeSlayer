@@ -5,7 +5,6 @@
 - **You are not allowed to modify the resource name**
 - **You are not allowed to modify the repository and re-release it, you can only fork it**
 - **If you want to contribute (like translation) you can make a pull request or open a new issue**
-- **You can use this in other lua IDE but he needs to run Lua 5.3+ like FiveM or you need to rename load to loadstring**
 
 ### Links & Support
 - **Discord Username**: Korioz#3310
